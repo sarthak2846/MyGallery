@@ -14,5 +14,5 @@ A clean and responsive **image gallery** built using **HTML and CSS**. This proj
 
 ---
 
-## 📁 Folder Structure
+
 
